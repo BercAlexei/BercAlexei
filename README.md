@@ -16,4 +16,5 @@
 ##
 
 ### Contacts:
-### [![Telegam](https://img.shields.io/badge/-@Alexei__710-000000?style=social&logo=telegram&)](https://t.me/Alexei_710)
+### [![Telegam](https://img.shields.io/badge/-@Alexei__710-000000?style=social&logo=telegram)](https://t.me/Alexei_710)
+### [![instagram](https://img.shields.io/badge/-@Alexei__710-000000?style=social&logo=instagram)](https://www.instagram.com/alexei_710/)
