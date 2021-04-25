@@ -1,5 +1,5 @@
 ### Hi, my name is **Alexei**!
 
-## I'm a beginner *Front-end developer*
+## Beginner *Front-end developer*
 
 ## Location: **Ekaterinburg**
