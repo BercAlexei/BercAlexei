@@ -11,6 +11,7 @@
 ![GULP](https://img.shields.io/badge/-GULP-000000?style=flat&logo=gulp)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
+![BEM](https://img.shields.io/badge/-BEM-000000?style=flat&logo=bem)
 
-### ✉️ Mail me: alexeiberc@gmail.com
+### <img src="https://img.icons8.com/fluent/48/000000/apple-mail.png"/> Mail me: alexeiberc@gmail.com
 ### <img src="https://img.icons8.com/color/22/000000/telegram-app--v1.png"/> Telegram: @Alexei_710
