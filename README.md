@@ -13,4 +13,4 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
 
 ### ✉️ Mail me: alexeiberc@gmail.com
-### <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> Telegram: @Alexei_710
+### <img src="https://img.icons8.com/color/22/000000/telegram-app--v1.png"/> Telegram: @Alexei_710
