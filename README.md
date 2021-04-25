@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
-
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=adobephotoshop)
 ## Contacts:
 ### [![Telegam](https://img.shields.io/badge/-Telegram-000000?style=social&logo=telegram)](https://t.me/Alexei_710)
 ### [![instagram](https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram)](https://www.instagram.com/alexei_710/)
