@@ -4,4 +4,4 @@
 
 ## Location: **Ekaterinburg**
 
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=appveyor)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
