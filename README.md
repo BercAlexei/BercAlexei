@@ -17,4 +17,3 @@
 
 #### ![Mail](https://img.shields.io/badge/-alexeiberc@gmail.com-000000?style=social&logo=gmail)
 #### ![Telegram](https://img.shields.io/badge/-@Alexei_710-000000?style=social&logo=telegram)
-
