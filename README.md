@@ -15,5 +15,6 @@
 
 ### Contacts:
 
-<img src="https://img.icons8.com/fluent/22/000000/apple-mail.png"/> Mail me: alexeiberc@gmail.com
-<img src="https://img.icons8.com/color/22/000000/telegram-app--v1.png"/> Telegram: @Alexei_710
+#### ![Mail](https://img.shields.io/badge/-alexeiberc@gmail.com-000000?style=social&logo=gmail)
+#### ![Telegram](https://img.shields.io/badge/-@Alexei_710-000000?style=social&logo=telegram)
+
