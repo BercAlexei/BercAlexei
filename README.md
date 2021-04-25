@@ -16,5 +16,4 @@
 ##
 
 ### Contacts:
-### [![Mail](https://img.shields.io/badge/-alexeiberc@gmail.com-000000?style=social&logo=gmail)](alexeiberc@gmail.com)
 ### [![Telegam](https://img.shields.io/badge/-@Alexei__710-000000?style=social&logo=telegram&)](https://t.me/Alexei_710)
