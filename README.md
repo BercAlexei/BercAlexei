@@ -1,6 +1,6 @@
 ### Hi, my name is **Alexei**!👋🏻
 
-## :mortar_board:I'm studying at ***Front-end developer***!
+## I'm a beginner ***Front-end developer***!
 
 ## Location: **Ekaterinburg**
 
