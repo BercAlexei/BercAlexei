@@ -2,7 +2,7 @@
 
 ### I'm a beginner ***Front-end developer***!
 
-### Location: **Ekaterinburg**
+### Location: **Yekaterinburg**
 ## Languges and skills:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
