@@ -8,13 +8,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
 ![GULP](https://img.shields.io/badge/-GULP-000000?style=flat&logo=gulp)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-000000?style=flat&logo=sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
-![BEM](https://img.shields.io/badge/-BEM-000000?style=flat&logo=bem)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![BEM](https://img.shields.io/badge/-BEM-000000?style=flat&logo=bem)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-PS-000000?style=flat&logo=Adobe+Photoshop)
 
 ## Contacts:
