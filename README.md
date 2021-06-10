@@ -23,6 +23,5 @@
 ### [![instagram](https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram)](https://www.instagram.com/alexei_710/)
 ### [![vk](https://img.shields.io/badge/-VK-000000?style=social&logo=vk)](https://vk.com/alexei_710)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BercAlexei&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BercAlexei&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BercAlexei&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
