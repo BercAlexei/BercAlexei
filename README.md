@@ -23,7 +23,5 @@
 ### [![instagram](https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram)](https://www.instagram.com/alexei_710/)
 ### [![vk](https://img.shields.io/badge/-VK-000000?style=social&logo=vk)](https://vk.com/alexei_710)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BercAlexei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BercAlexei&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
