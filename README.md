@@ -18,10 +18,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-PS-000000?style=flat&logo=Adobe+Photoshop)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BercAlexei&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contacts:
 ### [![Telegam](https://img.shields.io/badge/-Telegram-000000?style=social&logo=telegram)](https://t.me/Alexei_710)
 ### [![instagram](https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram)](https://www.instagram.com/alexei_710/)
 ### [![vk](https://img.shields.io/badge/-VK-000000?style=social&logo=vk)](https://vk.com/alexei_710)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BercAlexei&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
