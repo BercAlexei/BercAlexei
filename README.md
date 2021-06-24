@@ -14,7 +14,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
 ![BEM](https://img.shields.io/badge/-BEM-000000?style=flat&logo=bem)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
+<!-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu) -->
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-PS-000000?style=flat&logo=Adobe+Photoshop)
 
